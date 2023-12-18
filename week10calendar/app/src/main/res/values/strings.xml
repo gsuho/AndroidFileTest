@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">week10실습calendar</string>
+    <string-array name="week_label">
+        <item name="monday">M</item>
+        <item name="tuesday">T</item>
+        <item name="wednesday">W</item>
+        <item name="thursday">T</item>
+        <item name="friday">F</item>
+        <item name="saturday">S</item>
+        <item name="sunday">S</item>
+
+
+    </string-array>
+</resources>
